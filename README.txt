@@ -1,5 +1,7 @@
 # AI-Powered Student Performance Analysis & Prediction
 
+An AI-powered student performance analysis and prediction project using Python, Pandas, NumPy, Matplotlib, and Scikit-learn. Includes exploratory data analysis, data visualization, machine learning, and model evaluation.
+
 ## Files
 - `Student_Performance_Analytics.ipynb`: full project notebook
 - `requirements.txt`: Python dependencies
@@ -13,5 +15,3 @@
 5. Run `jupyter notebook` and open `Student_Performance_Analytics.ipynb`.
 6. Use **Run All**.
 
-## Dataset note
-The notebook generates a synthetic dataset for demonstration. No real student data is used. Results are illustrative and not suitable for real academic decisions.
